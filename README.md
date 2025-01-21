@@ -9,11 +9,9 @@ Content repurposing is crucial for modern digital marketing, but manually conver
 ## Task Description
 Build an automated pipeline using Python that converts blog posts from Alphanome's knowledge hub into video content. The system should handle text processing, script generation, visual asset creation, and final video composition with appropriate transitions and branding.
 
-The output should be similar to educational finance videos seen on platforms like LinkedIn and YouTube.
-
 ## Source Content
 - Access to Alphanome's knowledge hub blog posts at https://www.alphanome.ai/knowledgehub
-- Focus on financial technology and market analysis content
+- Focus on AI technology or finance related content
 - Consider both technical and narrative elements of the content
 
 ## Technical Requirements
